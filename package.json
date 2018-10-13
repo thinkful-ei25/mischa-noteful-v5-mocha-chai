@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-{
-  "name": "noteful-app-v1",
-  "version": "0.0.1",
-  "description": "FullStack App w/ RESTful API Challenge",
-  "license": "MIT",
-  "author": "Chris Klanac",
-  "repository": {
-    "type": "git"
-  },
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {}
-}
-||||||| merged common ancestors
-=======
 {
   "name": "noteful-app",
   "version": "0.0.1",
@@ -41,4 +23,3 @@
     "mocha": "^5.2.0"
   }
 }
->>>>>>> solution/04-promises
