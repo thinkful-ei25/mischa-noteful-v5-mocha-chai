@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "noteful-app-v1",
   "version": "0.0.1",
@@ -13,3 +14,31 @@
   },
   "dependencies": {}
 }
+||||||| merged common ancestors
+=======
+{
+  "name": "noteful-app",
+  "version": "0.0.1",
+  "description": "FullStack App w/ RESTful API Challenge",
+  "license": "MIT",
+  "author": "Chris Klanac",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cklanac/noteful-app.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
+>>>>>>> solution/04-promises
